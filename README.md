@@ -1,2 +1,2 @@
 # HerculesMendanha.github.io
-Currículo da Jornada
+Currículo da Jornada Dev
